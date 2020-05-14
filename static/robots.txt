@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */tags/
+Disallow: */categories/
+
+sitemap: https://gatsby-hooks-starter-theme.netlify.com/sitemap.xml
